@@ -1,0 +1,10 @@
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\bin\Debug\WinFormTutorial.exe.config
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\bin\Debug\WinFormTutorial.exe
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\bin\Debug\WinFormTutorial.pdb
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\obj\Debug\WinFormTutorial.csprojAssemblyReference.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\obj\Debug\WinFormTutorial.Properties.Resources.resources
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\obj\Debug\WinFormTutorial.csproj.GenerateResource.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\obj\Debug\WinFormTutorial.csproj.CoreCompileInputs.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\obj\Debug\WinFormTutorial.exe
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\obj\Debug\WinFormTutorial.pdb
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WinFormTutorial\obj\Debug\WinFormTutorial.Form1.resources
