@@ -41,5 +41,15 @@ namespace WinFormTutorial
                 return;
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            webBrowser1.GoBack();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            webBrowser1.GoForward();
+        }
     }
 }
