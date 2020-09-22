@@ -19,8 +19,27 @@ namespace WinFormTutorial
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = textBox1.Text;
+            Navigate(textBox1.Text);
             textBox1.Text = "";
+        }
+
+        private void Navigate(string url)
+        {
+            if (String.IsNullOrEmpty(url)) return;
+            if (url.Equals("about:blank")) return;
+            if (!url.StartsWith("http://") &&
+                !url.StartsWith("https://"))
+            {
+                url = "http://" + url;
+            }
+            try
+            {
+                webBrowser1.Navigate(new Uri(url));
+            }
+            catch (System.UriFormatException)
+            {
+                return;
+            }
         }
     }
 }
