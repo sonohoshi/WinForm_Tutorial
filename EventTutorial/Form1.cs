@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 using System.Windows.Forms;
 
 namespace EventTutorial
@@ -15,6 +16,7 @@ namespace EventTutorial
         public Form1()
         {
             InitializeComponent();
+            MakePictureBoxArray(10);
         }
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
@@ -39,6 +41,14 @@ namespace EventTutorial
                 case Keys.D:
                     pictureBox1.Left += 5;
                     break;
+            }
+        }
+
+        private void timer1_Elapsed(object sender, ElapsedEventArgs e)
+        {
+            foreach (var picture in this.pictureBox2)
+            {
+                picture.Top += 5;
             }
         }
     }
