@@ -46,9 +46,10 @@ namespace EventTutorial
 
         private void timer1_Elapsed(object sender, ElapsedEventArgs e)
         {
+            var random = new Random();
             foreach (var picture in this.pictureBox2)
             {
-                picture.Top += 5;
+                picture.Top += random.Next(1,10);
             }
         }
     }

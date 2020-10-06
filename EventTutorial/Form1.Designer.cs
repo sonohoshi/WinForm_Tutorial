@@ -88,9 +88,9 @@ namespace EventTutorial
                 // pictureBox2
                 // 
                 this.pictureBox2[i].Load(@"C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\Resources\char.gif");
-                this.pictureBox2[i].Location = new System.Drawing.Point(581 - i * 10, 158 + i * 10);
+                this.pictureBox2[i].Location = new System.Drawing.Point(581 - i * 80, 158);
                 this.pictureBox2[i].Name = "this.pictureBox2[i]Box2";
-                this.pictureBox2[i].Size = new System.Drawing.Size(104, 111);
+                this.pictureBox2[i].Size = new System.Drawing.Size(80, 80);
                 this.pictureBox2[i].SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
                 this.pictureBox2[i].TabIndex = 3;
                 this.pictureBox2[i].TabStop = false;
