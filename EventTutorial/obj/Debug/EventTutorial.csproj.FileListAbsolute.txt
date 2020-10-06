@@ -1,0 +1,10 @@
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\bin\Debug\EventTutorial.exe.config
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\bin\Debug\EventTutorial.exe
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\bin\Debug\EventTutorial.pdb
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\obj\Debug\EventTutorial.csprojAssemblyReference.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\obj\Debug\EventTutorial.Properties.Resources.resources
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\obj\Debug\EventTutorial.csproj.GenerateResource.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\obj\Debug\EventTutorial.csproj.CoreCompileInputs.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\obj\Debug\EventTutorial.exe
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\obj\Debug\EventTutorial.pdb
+C:\Users\82108\WorkSpace\WinForm_Tutorial\EventTutorial\obj\Debug\EventTutorial.Form1.resources
