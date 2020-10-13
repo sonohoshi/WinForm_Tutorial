@@ -60,6 +60,7 @@ namespace EventTutorial
         private void timer1_Elapsed(object sender, ElapsedEventArgs e)
         {
             var random = new Random();
+            var removeList = new List<PictureBox>();
             foreach (var picture in this.pictureBox2)
             {
                 picture.Top += random.Next(1,10);
@@ -68,6 +69,16 @@ namespace EventTutorial
             foreach (var bullet in this.bulletList)
             {
                 bullet.Top -= 15;
+                if (bullet.Top + bullet.Height < 0)
+                {
+                    removeList.Add(bullet);
+                }
+            }
+
+            foreach (var removePicture in removeList)
+            {
+                bulletList.Remove(removePicture);
+                this.Controls.Remove(removePicture);
             }
         }
     }
