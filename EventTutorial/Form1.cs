@@ -24,7 +24,6 @@ namespace EventTutorial
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
         {
-            bulletList.Add(MakeBullet(e.X, e.Y));
             pictureBox1.Left = e.X;
             pictureBox1.Top = e.Y;
         }
@@ -47,6 +46,15 @@ namespace EventTutorial
             {
                 pictureBox1.Left += 10;
             }
+
+            if (e.KeyCode == Keys.Space)
+            {
+                var left = pictureBox1.Left;
+                var y = pictureBox1.Top + 30;
+                var right = pictureBox1.Right;
+                var x = (left + right) / 2;
+                bulletList.Add(MakeBullet(x, y));
+            }
         }
 
         private void timer1_Elapsed(object sender, ElapsedEventArgs e)
@@ -55,6 +63,11 @@ namespace EventTutorial
             foreach (var picture in this.pictureBox2)
             {
                 picture.Top += random.Next(1,10);
+            }
+
+            foreach (var bullet in this.bulletList)
+            {
+                bullet.Top -= 15;
             }
         }
     }
