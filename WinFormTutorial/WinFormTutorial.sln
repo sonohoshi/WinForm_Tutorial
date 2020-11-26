@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormTutorial", "WinFormT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTutorial", "..\EventTutorial\EventTutorial.csproj", "{1024DA8E-2538-4AF0-B0C2-BBAF03CD2129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpWithPython", "..\WithPython\CsharpWithPython\CsharpWithPython.csproj", "{A44A9B8F-256B-49FC-BD06-6F5D6953E835}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1024DA8E-2538-4AF0-B0C2-BBAF03CD2129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1024DA8E-2538-4AF0-B0C2-BBAF03CD2129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1024DA8E-2538-4AF0-B0C2-BBAF03CD2129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44A9B8F-256B-49FC-BD06-6F5D6953E835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44A9B8F-256B-49FC-BD06-6F5D6953E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44A9B8F-256B-49FC-BD06-6F5D6953E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44A9B8F-256B-49FC-BD06-6F5D6953E835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

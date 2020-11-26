@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../../EventTutorial" />
     <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../WithPython/CsharpWithPython" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

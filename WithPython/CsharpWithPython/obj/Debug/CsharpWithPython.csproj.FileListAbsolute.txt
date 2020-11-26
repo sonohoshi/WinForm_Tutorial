@@ -1,0 +1,10 @@
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\bin\Debug\CsharpWithPython.exe.config
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\bin\Debug\CsharpWithPython.exe
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\bin\Debug\CsharpWithPython.pdb
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\obj\Debug\CsharpWithPython.csprojAssemblyReference.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\obj\Debug\CsharpWithPython.Properties.Resources.resources
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\obj\Debug\CsharpWithPython.csproj.GenerateResource.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\obj\Debug\CsharpWithPython.csproj.CoreCompileInputs.cache
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\obj\Debug\CsharpWithPython.exe
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\obj\Debug\CsharpWithPython.pdb
+C:\Users\82108\WorkSpace\WinForm_Tutorial\WithPython\CsharpWithPython\obj\Debug\CsharpWithPython.Form1.resources
